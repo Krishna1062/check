@@ -13,7 +13,8 @@ const page = () => {
     <div>
 <Nav/>
 <h1 className='text-blue-600'>thi sis about</h1>
-<Link href="/">homet</Link>
+<Link href="/">homet</Link><br />
+<Link href="/contact">contet</Link>
     </div>
   )
 }
